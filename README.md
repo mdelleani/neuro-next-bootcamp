@@ -12,7 +12,7 @@ Questa sessione sarà divisa in due parti e vi guiderà attraverso i concetti fo
 ### 16:45 - 18:00: Introduzione ai concetti base del linguaggio di programmazione Python per l'analisi di dati medici e lo sviluppo di modelli IA
 _Tutor: S. D'Amico | Docente: M. Delleani_
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdelleani/neuro-next-bootcamp/blob/main/notebooks/01_Introduction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelleani/neuro-next-bootcamp/blob/main/notebooks/01_Introduction.ipynb)
 
 Questa prima parte della sessione interattiva vi fornirà le **basi essenziali di Python** necessarie per l'analisi di dati in ambito medico e per iniziare a comprendere lo sviluppo di modelli di Intelligenza Artificiale. Tratteremo i seguenti argomenti:
 
