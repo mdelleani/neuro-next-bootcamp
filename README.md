@@ -34,6 +34,8 @@ Questa prima parte della sessione interattiva vi fornirà le **basi essenziali d
 ### 18:00 - 19:15: Applicazione pratica di un modello per la generazione di dati sintetici applicato alla Neurologia
 _Docente: M. Delleani_
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelleani/neuro-next-bootcamp/blob/main/notebooks/02_advanced_ai_neurology.ipynb)
+
 In questa seconda parte, ci immergeremo in un'applicazione pratica che mostrerà come utilizzare Python per affrontare sfide reali in neurologia. Vedremo come un **modello di IA possa generare dati sintetici**, un'abilità cruciale quando i dati reali sono scarsi o sensibili. I temi che affronteremo includono:
 
 * **Il problema della scarsità e sensibilità dei dati in neurologia:** Perché i dati sintetici sono importanti.
