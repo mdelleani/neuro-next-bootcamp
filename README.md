@@ -36,27 +36,18 @@ _Docente: M. Delleani_
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelleani/neuro-next-bootcamp/blob/main/notebooks/02_advanced_ai_neurology.ipynb)
 
-In questa seconda parte, ci immergeremo in un'applicazione pratica che mostrerà come utilizzare Python per affrontare sfide reali in neurologia. Vedremo come un **modello di IA possa generare dati sintetici**, un'abilità cruciale quando i dati reali sono scarsi o sensibili. I temi che affronteremo includono:
+Abbiamo scelto di esplorare due aree di frontiera dell'Intelligenza Artificiale con un impatto immediato e tangibile in Neurologia, più facilmente dimostrabili in un contesto di sessione interattiva:
 
-* **Il problema della scarsità e sensibilità dei dati in neurologia:** Perché i dati sintetici sono importanti.
-* **Introduzione ai Generative Adversarial Networks (GANs) o modelli simili:** Spiegazione intuitiva del loro funzionamento.
-* **Implementazione pratica di un modello di generazione dati sintetici:**
-    * Utilizzo di librerie di IA come **scikit-learn** o **PyTorch/TensorFlow** (a seconda della complessità).
-    * Preparazione e addestramento del modello con un dataset neurologico semplificato.
-    * Valutazione dei dati sintetici generati.
-* **Discussione sulle potenziali applicazioni in Neurologia:**
-    * Ricerca su malattie rare.
-    * Formazione di modelli con dati aumentati.
-    * Privacy e condivisione dei dati.
+1.  **Large Language Models (LLM) per l'Analisi Testuale:** Come i modelli di linguaggio possono elaborare e interpretare testo medico (es. cartelle cliniche, articoli scientifici) per estrarre informazioni chiave, riassumere o rispondere a domande.
+2.  **Segmentazione di Immagini Mediche:** Come l'IA può aiutare a identificare e delineare automaticamente strutture o patologie (es. lesioni, tumori, regioni cerebrali) nelle immagini diagnostiche (RM, TC).
+
+Queste applicazioni mostrano la versatilità e il potenziale dell'IA nel supportare la diagnosi, la ricerca e la gestione clinica in neurologia.
 
 ---
 
-### Materiale e Risorse
+## Contatti
 
-Tutto il codice e gli esempi pratici che verranno utilizzati durante la sessione saranno disponibili e interattivi tramite un **Google Colaboratory (Colab)**. Vi invitiamo a seguirci in tempo reale e a sperimentare direttamente con il codice!
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdelleani)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdelleani/)
 
-**Link al Colab:** [Il link al vostro Colab sarà inserito qui a breve]
-
-Preparatevi a un'esperienza di apprendimento interattiva e stimolante che vi aprirà nuove prospettive sull'utilizzo di Python e dell'IA nella ricerca neurologica!
-
----
+Per qualsiasi informazione o per ulteriori dettagli, contattare [mattia.delleani@train-ai.eu](mailto:mattia.delleani@train-ai.eu)
